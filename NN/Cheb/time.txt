@@ -1,0 +1,3 @@
+base spend time -8.800468552443716h
+cdk spend time -70381.27611064911h
+advance feature spend65720.14178609848/nnew rdkit feature spend28562.22673201561/n
